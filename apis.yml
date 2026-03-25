@@ -1,0 +1,38 @@
+aid: json-schema
+name: JSON Schema
+description: >-
+  JSON Schema is a vocabulary for annotating and validating JSON documents, widely used for defining API request and response shapes across REST APIs.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - API Design
+  - Specification Language
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/json-schema/refs/heads/main/apis.yml
+created: '2026-03-25'
+modified: '2026-03-25'
+specificationVersion: '0.19'
+apis:
+  - aid: json-schema:json-schema
+    name: JSON Schema
+    description: >-
+      JSON Schema is a vocabulary for annotating and validating JSON documents, widely used for defining API request and response shapes across REST APIs.
+    humanURL: https://json-schema.org
+    tags:
+      - API Design
+      - Specification Language
+    properties:
+      - type: Documentation
+        url: https://json-schema.org/learn/getting-started-step-by-step
+      - type: GitHub Repository
+        url: https://github.com/json-schema-org
+common:
+  - type: Website
+    url: https://json-schema.org
+  - type: Documentation
+    url: https://json-schema.org/learn/getting-started-step-by-step
+  - type: GitHub Organization
+    url: https://github.com/json-schema-org
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com

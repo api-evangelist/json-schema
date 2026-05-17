@@ -38,7 +38,7 @@ apis:
         url: https://json-schema.org/learn/getting-started-step-by-step
       - type: Specification
         url: https://json-schema.org/draft/2020-12/release-notes
-      - type: GitHub Repository
+      - type: GitHubRepository
         url: https://github.com/json-schema-org
 common:
   - type: Website
@@ -47,7 +47,7 @@ common:
     url: https://json-schema.org/learn/getting-started-step-by-step
   - type: Specification
     url: https://json-schema.org/draft/2020-12/release-notes
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/json-schema-org
 maintainers:
   - FN: Kin Lane

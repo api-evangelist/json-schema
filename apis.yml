@@ -41,6 +41,8 @@ apis:
       - type: GitHubRepository
         url: https://github.com/json-schema-org
 common:
+  - type: DomainSecurity
+    url: security/json-schema-domain-security.yml
   - type: Website
     url: https://json-schema.org
   - type: Documentation

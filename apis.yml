@@ -1,5 +1,6 @@
 aid: json-schema
 name: JSON Schema
+kind: topic
 description: >-
   JSON Schema is a vocabulary for annotating and validating JSON documents,
   widely used for defining API request and response shapes across REST APIs.

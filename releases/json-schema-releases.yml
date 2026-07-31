@@ -1,0 +1,20 @@
+generated: '2026-07-31'
+method: searched
+source: https://github.com/json-schema-org
+type: Releases
+organization: json-schema-org
+summary:
+  repositories_with_releases: 1
+  repositories_checked: 19
+  total_releases: 1
+releases:
+- repository: JSON-Schema-Test-Suite
+  release_count: 1
+  latest:
+    tag: 22.1.0
+    name: 22.1.0
+    published: '2023-05-12'
+    prerelease: false
+    url: https://github.com/json-schema-org/JSON-Schema-Test-Suite/releases/tag/22.1.0
+  tags:
+  - 22.1.0

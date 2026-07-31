@@ -1,0 +1,330 @@
+generated: '2026-07-31'
+method: searched
+source: https://github.com/json-schema-org
+type: Repositories
+organization: json-schema-org
+summary:
+  total: 23
+  archived: 4
+  by_maturity:
+    unclassified: 22
+    governance: 1
+repositories:
+- name: .github
+  url: https://github.com/json-schema-org/.github
+  description: Our organization-wide Code of Conduct. Also see the community repository.
+  maturity: governance
+  stars: 12
+  forks: 21
+  open_issues: 9
+  archived: false
+  created: '2021-08-17'
+  updated: '2025-12-27'
+  license: null
+  topics:
+  - openjs-foundation
+- name: blog
+  url: https://github.com/json-schema-org/blog
+  description: The JSON Schema blog
+  maturity: unclassified
+  stars: 5
+  forks: 6
+  open_issues: 0
+  archived: true
+  created: '2021-07-27'
+  updated: '2023-10-23'
+  license: Apache-2.0
+  topics:
+  - blog
+  - community
+  - json-schema
+- name: brand
+  url: https://github.com/json-schema-org/brand
+  description: JSON Schema branding guidelines
+  maturity: unclassified
+  stars: 1
+  forks: 0
+  open_issues: 0
+  archived: false
+  created: '2023-04-18'
+  updated: '2024-05-02'
+  license: null
+  topics:
+  - design
+  - json-schema
+  - jsonschema
+- name: community
+  url: https://github.com/json-schema-org/community
+  description: A space to discuss community and organisational related things
+  maturity: unclassified
+  stars: 132
+  forks: 75
+  open_issues: 60
+  archived: false
+  created: '2021-04-12'
+  updated: '2026-05-11'
+  license: null
+  topics:
+  - community
+  - contributing
+  - json-schema
+  - jsonschema
+  - mentoring
+- name: conference
+  url: https://github.com/json-schema-org/conference
+  description: The JSON Schema conference website
+  maturity: unclassified
+  stars: 7
+  forks: 28
+  open_issues: 18
+  archived: false
+  created: '2024-06-29'
+  updated: '2026-07-06'
+  license: null
+  topics:
+  - conference
+  - hugo
+  - jsonschema
+- name: ecosystem
+  url: https://github.com/json-schema-org/ecosystem
+  description: Showcasing and documenting the JSON Schema Ecosystem
+  maturity: unclassified
+  stars: 7
+  forks: 23
+  open_issues: 22
+  archived: false
+  created: '2023-11-13'
+  updated: '2024-06-25'
+  license: MIT
+  topics: []
+- name: json-hyperschema-spec
+  url: https://github.com/json-schema-org/json-hyperschema-spec
+  description: A *future* location for the JSON Hyper-Schema I-D sources.
+  maturity: unclassified
+  stars: 16
+  forks: 5
+  open_issues: 14
+  archived: false
+  created: '2020-01-15'
+  updated: '2024-05-02'
+  license: null
+  topics: []
+- name: json-schema-linting
+  url: https://github.com/json-schema-org/json-schema-linting
+  description: Linting tools to help build better JSON Schemas
+  maturity: unclassified
+  stars: 9
+  forks: 2
+  open_issues: 18
+  archived: false
+  created: '2023-02-14'
+  updated: '2024-05-02'
+  license: NOASSERTION
+  topics: []
+- name: json-schema-org.github.io
+  url: https://github.com/json-schema-org/json-schema-org.github.io
+  description: JSON Schema website
+  maturity: unclassified
+  stars: 295
+  forks: 206
+  open_issues: 0
+  archived: true
+  created: '2015-06-23'
+  updated: '2023-10-24'
+  license: null
+  topics:
+  - ietf
+  - json-schema
+- name: json-schema-spec
+  url: https://github.com/json-schema-org/json-schema-spec
+  description: The JSON Schema specification
+  maturity: unclassified
+  stars: 5087
+  forks: 448
+  open_issues: 75
+  archived: false
+  created: '2015-06-24'
+  updated: '2026-07-14'
+  license: NOASSERTION
+  topics:
+  - api-documentation
+  - json
+  - json-schema
+  - jsonschema
+  - validation
+- name: JSON-Schema-Test-Suite
+  url: https://github.com/json-schema-org/JSON-Schema-Test-Suite
+  description: A language agnostic test suite for the JSON Schema specifications
+  maturity: unclassified
+  stars: 740
+  forks: 296
+  open_issues: 102
+  archived: false
+  created: '2012-09-25'
+  updated: '2026-07-31'
+  license: MIT
+  topics:
+  - json-schema
+  - jsonschema
+- name: json-schema-test-suite-npm
+  url: https://github.com/json-schema-org/json-schema-test-suite-npm
+  description: NPM / node.js-specific support for json-schema-org/JSON-Schema-Test-Suite
+  maturity: unclassified
+  stars: 6
+  forks: 2
+  open_issues: 1
+  archived: true
+  created: '2019-02-13'
+  updated: '2022-07-21'
+  license: null
+  topics: []
+- name: json-schema-vocabularies
+  url: https://github.com/json-schema-org/json-schema-vocabularies
+  description: Experimental vocabularies under consideration for standardization
+  maturity: unclassified
+  stars: 66
+  forks: 13
+  open_issues: 46
+  archived: false
+  created: '2017-05-17'
+  updated: '2024-05-02'
+  license: null
+  topics: []
+- name: landscape
+  url: https://github.com/json-schema-org/landscape
+  description: The JSON Schema Landscape
+  maturity: unclassified
+  stars: 23
+  forks: 40
+  open_issues: 12
+  archived: false
+  created: '2024-04-18'
+  updated: '2026-07-30'
+  license: null
+  topics:
+  - hacktoberfest
+  - json-schema
+  - jsonschema
+- name: referencing
+  url: https://github.com/json-schema-org/referencing
+  description: Proposals for a possible specification encompassing the varying uses of "$ref"
+  maturity: unclassified
+  stars: 9
+  forks: 1
+  open_issues: 12
+  archived: false
+  created: '2022-10-20'
+  updated: '2024-05-02'
+  license: MIT
+  topics: []
+- name: repo-template
+  url: https://github.com/json-schema-org/repo-template
+  description: A template repo that's pre-initialized with a license, CoC, etc.
+  maturity: unclassified
+  stars: 3
+  forks: 1
+  open_issues: 0
+  archived: false
+  created: '2023-02-23'
+  updated: '2024-05-02'
+  license: NOASSERTION
+  topics: []
+- name: tour
+  url: https://github.com/json-schema-org/tour
+  description: A tour of JSON Schema
+  maturity: unclassified
+  stars: 46
+  forks: 70
+  open_issues: 44
+  archived: false
+  created: '2024-05-03'
+  updated: '2025-11-03'
+  license: NOASSERTION
+  topics:
+  - hacktoberfest
+  - json-schema
+  - jsonschema
+- name: TSC
+  url: https://github.com/json-schema-org/TSC
+  description: The repository where the JSON Schema TSC discuss and decide things
+  maturity: unclassified
+  stars: 2
+  forks: 1
+  open_issues: 5
+  archived: false
+  created: '2023-11-28'
+  updated: '2024-07-16'
+  license: null
+  topics: []
+- name: understanding-json-schema
+  url: https://github.com/json-schema-org/understanding-json-schema
+  description: A website aiming to provide more accessible documentation for JSON schema.
+  maturity: unclassified
+  stars: 1510
+  forks: 310
+  open_issues: 0
+  archived: true
+  created: '2013-09-05'
+  updated: '2023-11-03'
+  license: NOASSERTION
+  topics:
+  - json-schema
+- name: upgrade-downgrade-rules
+  url: https://github.com/json-schema-org/upgrade-downgrade-rules
+  description: A set of transformation rules to convert between JSON Schema specification versions
+  maturity: unclassified
+  stars: 4
+  forks: 1
+  open_issues: 3
+  archived: false
+  created: '2024-05-03'
+  updated: '2024-09-06'
+  license: NOASSERTION
+  topics:
+  - json
+  - json-schema
+  - jsonschema
+  - versioning
+- name: vocab-database
+  url: https://github.com/json-schema-org/vocab-database
+  description: A proposed JSON Schema vocabulary for common database use cases
+  maturity: unclassified
+  stars: 9
+  forks: 4
+  open_issues: 3
+  archived: false
+  created: '2021-07-16'
+  updated: '2024-05-02'
+  license: null
+  topics:
+  - database
+  - json-schema
+  - json-schema-vocabulary
+- name: vocab-idl
+  url: https://github.com/json-schema-org/vocab-idl
+  description: Help and clarify how JSON Schema can be interpreted from validation rules to data definition.
+    This extends to how those data definitions can be represented in any programming language
+  maturity: unclassified
+  stars: 20
+  forks: 2
+  open_issues: 23
+  archived: false
+  created: '2021-07-02'
+  updated: '2024-05-02'
+  license: null
+  topics: []
+- name: website
+  url: https://github.com/json-schema-org/website
+  description: JSON Schema website
+  maturity: unclassified
+  stars: 163
+  forks: 465
+  open_issues: 337
+  archived: false
+  created: '2022-03-01'
+  updated: '2026-07-26'
+  license: NOASSERTION
+  topics:
+  - hacktoberfest
+  - json-schema
+  - jsonschema

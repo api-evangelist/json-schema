@@ -42,7 +42,7 @@ tags:
 url: >-
   https://raw.githubusercontent.com/api-evangelist/json-schema/refs/heads/main/apis.yml
 created: '2026-03-25'
-modified: '2026-04-28'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis:
   - aid: json-schema:json-schema
@@ -65,6 +65,8 @@ apis:
       - type: GitHubRepository
         url: https://github.com/json-schema-org
 common:
+  - url: https://json-schema.org/blog
+    type: Blog
   - type: DomainSecurity
     url: security/json-schema-domain-security.yml
   - type: Website

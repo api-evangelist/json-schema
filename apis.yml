@@ -65,6 +65,12 @@ apis:
       - type: GitHubRepository
         url: https://github.com/json-schema-org
 common:
+  - type: Plans
+    url: plans/json-schema-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/json-schema-rate-limits.yml
+  - type: FinOps
+    url: finops/json-schema-finops.yml
   - url: https://json-schema.org/blog
     type: Blog
   - type: DomainSecurity

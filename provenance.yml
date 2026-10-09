@@ -9,6 +9,12 @@ artifacts:
   finops/json-schema-finops.yml:
     method: generated
     evidence: declared in the artifact
+  front-door-ai/2026-09-17.yml:
+    method: unknown
+    evidence: no authorship recorded
+  meetings/json-schema-meetings.yml:
+    method: harvested
+    evidence: declared in the artifact
   plans/json-schema-plans-pricing.yml:
     method: generated
     evidence: declared in the artifact

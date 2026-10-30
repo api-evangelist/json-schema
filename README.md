@@ -1,4 +1,4 @@
-# JSON Schema (json-schema)
+# json-schema
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,54 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-JSON Schema is a vocabulary for annotating and validating JSON documents, widely used for defining API request and response shapes across REST APIs. The current stable specification is Draft 2020-12. JSON Schema differentiates between the instance being validated and the schema document containing the validation rules, and supports URI-based references for recursive and cross-document definitions.
+## json-schema on APIs.io
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/json-schema/refs/heads/main/apis.yml)
+Everything profiled for json-schema is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/json-schema/](https://apis.io/providers/json-schema/)** — or go straight to one of the APIs or properties below.
 
-## Scope
+## API Evangelist rating
 
-- **Type:** Index
-- **Position:** Consuming
-- **Access:** 3rd-Party
+Not yet rated. See [apis.io/providers/json-schema/](https://apis.io/providers/json-schema/).
 
-## Tags
+## How this profile is made
 
-- API Design, Specification Language, JSON, Validation, Schema
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-## Timestamps
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for json-schema: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-- **Created:** 2026-03-25
-- **Modified:** 2026-04-28
+## Open an issue
 
-## APIs
-
-### JSON Schema
-
-JSON Schema is a vocabulary for annotating and validating JSON documents, widely used for defining API request and response shapes across REST APIs. Current spec version is Draft 2020-12. Supports validation, code generation, API documentation, UI generation, and JSON data processing.
-
-**Human URL:** [https://json-schema.org](https://json-schema.org)
-
-#### Tags
-
-- API Design, Specification Language, Validation
-
-#### Properties
-
-- [Documentation](https://json-schema.org/learn/getting-started-step-by-step)
-- [Specification](https://json-schema.org/draft/2020-12/release-notes)
-- [GitHub Repository](https://github.com/json-schema-org)
-
-## Common Properties
-
-| Property | URL |
-|----------|-----|
-| Website | https://json-schema.org |
-| Documentation | https://json-schema.org/learn/getting-started-step-by-step |
-| Specification | https://json-schema.org/draft/2020-12/release-notes |
-| GitHub Organization | https://github.com/json-schema-org |
-
-## Maintainers
-
-**FN:** Kin Lane
-
-**Email:** kin@apievangelist.com
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/json-schema/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
